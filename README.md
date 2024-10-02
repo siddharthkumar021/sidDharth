@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-mauve-seven-25.vercel.app/](https://portfolio-mauve-seven-25.vercel.app/)
 
-- 💬 Ask me about **MERN, AI & Ml**
+- 💬 Ask me about **MERN, AI & ML**
 
 - 📫 How to reach me **siddharthakumar4298@gmail.com**
 
